@@ -36,19 +36,19 @@
     "done_percentage": {
       "int": {
         "min": 1,
-        "max": 4
+        "max": 99
       }
     },
     "total_time": {
       "int": {
         "min": 1,
-        "max": 4
+        "max": 999
       }
     },
     "left_time": {
       "int": {
         "min": 1,
-        "max": 4
+        "max": 999
       }
     }
   }
